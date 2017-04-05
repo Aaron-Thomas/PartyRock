@@ -1,0 +1,49 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PartyRock"
+provides-nominal:
+- "C12PartyRockApp9PartyRock"
+provides-member:
+- ["C12PartyRockApp9PartyRock", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "PartyRock"
+- "String"
+depends-member:
+- !private ["Ps9AnyObject", "_imageURL"]
+- !private ["Ps9AnyObject", "_videoTitle"]
+- !private ["Ps9AnyObject", "_videoURL"]
+- ["Ps9AnyObject", ""]
+- ["C12PartyRockApp9PartyRock", "String"]
+- !private ["C12PartyRockApp9PartyRock", "_imageURL"]
+- !private ["C12PartyRockApp9PartyRock", "_videoTitle"]
+- !private ["C12PartyRockApp9PartyRock", "_videoURL"]
+- ["C12PartyRockApp9PartyRock", "deinit"]
+- ["C12PartyRockApp9PartyRock", "imageURL"]
+- ["C12PartyRockApp9PartyRock", "init"]
+- ["C12PartyRockApp9PartyRock", "videoTitle"]
+- ["C12PartyRockApp9PartyRock", "videoURL"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C12PartyRockApp9PartyRock"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.apinotesc"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.apinotesc"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.apinotesc"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.apinotesc"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreText.apinotesc"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.apinotesc"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+interface-hash: "02d0303cbb121e0db429526a5e4dd945"

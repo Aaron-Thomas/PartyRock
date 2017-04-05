@@ -1,0 +1,277 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "VideoVC"
+provides-nominal:
+- "C12PartyRockApp7VideoVC"
+provides-member:
+- ["C12PartyRockApp7VideoVC", ""]
+provides-dynamic-lookup:
+- "titleLbl"
+- "viewDidLoad"
+- "webVIew"
+depends-top-level:
+- "AssignmentPrecedence"
+- "PartyRock"
+- "UILabel"
+- "UIViewController"
+- "UIWebView"
+- "VideoVC"
+depends-member:
+- !private ["Ps9AnyObject", "_partyRock"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "loadHTMLString"]
+- !private ["Ps9AnyObject", "partyRock"]
+- !private ["Ps9AnyObject", "text"]
+- !private ["Ps9AnyObject", "titleLbl"]
+- !private ["Ps9AnyObject", "videoTitle"]
+- !private ["Ps9AnyObject", "videoURL"]
+- !private ["Ps9AnyObject", "viewDidLoad"]
+- !private ["Ps9AnyObject", "webVIew"]
+- ["Ps9AnyObject", ""]
+- !private ["PSo15CALayerDelegate", "loadHTMLString"]
+- !private ["PSo15CALayerDelegate", "text"]
+- !private ["Ps7CVarArg", "_partyRock"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "loadHTMLString"]
+- !private ["Ps7CVarArg", "partyRock"]
+- !private ["Ps7CVarArg", "text"]
+- !private ["Ps7CVarArg", "titleLbl"]
+- !private ["Ps7CVarArg", "viewDidLoad"]
+- !private ["Ps7CVarArg", "webVIew"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps28CustomDebugStringConvertible", "_partyRock"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "loadHTMLString"]
+- !private ["Ps28CustomDebugStringConvertible", "partyRock"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- !private ["Ps28CustomDebugStringConvertible", "titleLbl"]
+- !private ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- !private ["Ps28CustomDebugStringConvertible", "webVIew"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "_partyRock"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "loadHTMLString"]
+- !private ["Ps23CustomStringConvertible", "partyRock"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- !private ["Ps23CustomStringConvertible", "titleLbl"]
+- !private ["Ps23CustomStringConvertible", "viewDidLoad"]
+- !private ["Ps23CustomStringConvertible", "webVIew"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "_partyRock"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "loadHTMLString"]
+- !private ["Ps9Equatable", "partyRock"]
+- !private ["Ps9Equatable", "text"]
+- !private ["Ps9Equatable", "titleLbl"]
+- !private ["Ps9Equatable", "viewDidLoad"]
+- !private ["Ps9Equatable", "webVIew"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "_partyRock"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "loadHTMLString"]
+- !private ["Ps8Hashable", "partyRock"]
+- !private ["Ps8Hashable", "text"]
+- !private ["Ps8Hashable", "titleLbl"]
+- !private ["Ps8Hashable", "viewDidLoad"]
+- !private ["Ps8Hashable", "webVIew"]
+- ["Ps8Hashable", ""]
+- !private ["PSo8NSCoding", "_partyRock"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "loadHTMLString"]
+- !private ["PSo8NSCoding", "partyRock"]
+- !private ["PSo8NSCoding", "text"]
+- !private ["PSo8NSCoding", "titleLbl"]
+- !private ["PSo8NSCoding", "viewDidLoad"]
+- !private ["PSo8NSCoding", "webVIew"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo26NSExtensionRequestHandling", "_partyRock"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "partyRock"]
+- !private ["PSo26NSExtensionRequestHandling", "titleLbl"]
+- !private ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- !private ["PSo26NSExtensionRequestHandling", "webVIew"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "PartyRock"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "UIWebView"]
+- ["CSo8NSObject", "_partyRock"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "loadHTMLString"]
+- ["CSo8NSObject", "partyRock"]
+- !private ["CSo8NSObject", "text"]
+- ["CSo8NSObject", "titleLbl"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["CSo8NSObject", "webVIew"]
+- !private ["PSo16NSObjectProtocol", "_partyRock"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "loadHTMLString"]
+- !private ["PSo16NSObjectProtocol", "partyRock"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- !private ["PSo16NSObjectProtocol", "titleLbl"]
+- !private ["PSo16NSObjectProtocol", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "webVIew"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["C12PartyRockApp9PartyRock", "videoTitle"]
+- !private ["C12PartyRockApp9PartyRock", "videoURL"]
+- !private ["PSo29UIAccessibilityIdentification", "loadHTMLString"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo12UIAppearance", "loadHTMLString"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo21UIAppearanceContainer", "_partyRock"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "loadHTMLString"]
+- !private ["PSo21UIAppearanceContainer", "partyRock"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- !private ["PSo21UIAppearanceContainer", "titleLbl"]
+- !private ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- !private ["PSo21UIAppearanceContainer", "webVIew"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "_partyRock"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "partyRock"]
+- !private ["PSo18UIContentContainer", "titleLbl"]
+- !private ["PSo18UIContentContainer", "viewDidLoad"]
+- !private ["PSo18UIContentContainer", "webVIew"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "text"]
+- !private ["PSo17UICoordinateSpace", "loadHTMLString"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo13UIDynamicItem", "loadHTMLString"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["PSo18UIFocusEnvironment", "_partyRock"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "loadHTMLString"]
+- !private ["PSo18UIFocusEnvironment", "partyRock"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- !private ["PSo18UIFocusEnvironment", "titleLbl"]
+- !private ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- !private ["PSo18UIFocusEnvironment", "webVIew"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "loadHTMLString"]
+- !private ["PSo11UIFocusItem", "text"]
+- !private ["CSo7UILabel", "text"]
+- ["CSo11UIResponder", "PartyRock"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "UIWebView"]
+- ["CSo11UIResponder", "_partyRock"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "loadHTMLString"]
+- ["CSo11UIResponder", "partyRock"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo11UIResponder", "titleLbl"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["CSo11UIResponder", "webVIew"]
+- !private ["PSo30UIResponderStandardEditActions", "_partyRock"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "loadHTMLString"]
+- !private ["PSo30UIResponderStandardEditActions", "partyRock"]
+- !private ["PSo30UIResponderStandardEditActions", "text"]
+- !private ["PSo30UIResponderStandardEditActions", "titleLbl"]
+- !private ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "webVIew"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo20UIScrollViewDelegate", "loadHTMLString"]
+- !private ["PSo16UIStateRestoring", "_partyRock"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "partyRock"]
+- !private ["PSo16UIStateRestoring", "titleLbl"]
+- !private ["PSo16UIStateRestoring", "viewDidLoad"]
+- !private ["PSo16UIStateRestoring", "webVIew"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "_partyRock"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "loadHTMLString"]
+- !private ["PSo18UITraitEnvironment", "partyRock"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- !private ["PSo18UITraitEnvironment", "titleLbl"]
+- !private ["PSo18UITraitEnvironment", "viewDidLoad"]
+- !private ["PSo18UITraitEnvironment", "webVIew"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "loadHTMLString"]
+- !private ["CSo6UIView", "text"]
+- ["CSo16UIViewController", "PartyRock"]
+- ["CSo16UIViewController", "UILabel"]
+- ["CSo16UIViewController", "UIWebView"]
+- ["CSo16UIViewController", "_partyRock"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "partyRock"]
+- ["CSo16UIViewController", "titleLbl"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", "webVIew"]
+- ["CSo16UIViewController", ""]
+- !private ["CSo9UIWebView", "loadHTMLString"]
+- ["C12PartyRockApp7VideoVC", "PartyRock"]
+- ["C12PartyRockApp7VideoVC", "UILabel"]
+- ["C12PartyRockApp7VideoVC", "UIWebView"]
+- !private ["C12PartyRockApp7VideoVC", "_partyRock"]
+- ["C12PartyRockApp7VideoVC", "deinit"]
+- ["C12PartyRockApp7VideoVC", "init"]
+- ["C12PartyRockApp7VideoVC", "partyRock"]
+- ["C12PartyRockApp7VideoVC", "titleLbl"]
+- ["C12PartyRockApp7VideoVC", "viewDidLoad"]
+- ["C12PartyRockApp7VideoVC", "webVIew"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "loadHTMLString"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "text"]
+- !private ["Ps9_Hashable", "_partyRock"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "loadHTMLString"]
+- !private ["Ps9_Hashable", "partyRock"]
+- !private ["Ps9_Hashable", "text"]
+- !private ["Ps9_Hashable", "titleLbl"]
+- !private ["Ps9_Hashable", "viewDidLoad"]
+- !private ["Ps9_Hashable", "webVIew"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "C12PartyRockApp9PartyRock"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "PSo30UIContentSizeCategoryAdjusting"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- !private "PSo20UIScrollViewDelegate"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "CSo9UIWebView"
+- "C12PartyRockApp7VideoVC"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.apinotesc"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.apinotesc"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.apinotesc"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.apinotesc"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreText.apinotesc"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.apinotesc"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Users/aaronthomas/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+interface-hash: "de7a6e2ac1c46d874e7d52a46328271d"
