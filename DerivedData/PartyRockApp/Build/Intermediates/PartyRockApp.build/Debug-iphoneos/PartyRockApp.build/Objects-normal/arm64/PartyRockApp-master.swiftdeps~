@@ -1,9 +1,0 @@
-version: "Apple Swift version 3.1 (swiftlang-802.0.36.2 clang-802.0.35)"
-options: "c170251fa03a60677899e85a6742f2c2"
-build_time: [542761924, 701634000]
-inputs:
-  "/Users/aaronthomas/Desktop/Xcode/DevSlopes/PartyRockApp/PartyRockApp/VideoVC.swift": [542761924, 0]
-  "/Users/aaronthomas/Desktop/Xcode/DevSlopes/PartyRockApp/PartyRockApp/MainVC.swift": [538437804, 0]
-  "/Users/aaronthomas/Desktop/Xcode/DevSlopes/PartyRockApp/PartyRockApp/PartyRock.swift": [538429537, 0]
-  "/Users/aaronthomas/Desktop/Xcode/DevSlopes/PartyRockApp/PartyRockApp/PartyCell.swift": [542761788, 0]
-  "/Users/aaronthomas/Desktop/Xcode/DevSlopes/PartyRockApp/PartyRockApp/AppDelegate.swift": [538431192, 0]
